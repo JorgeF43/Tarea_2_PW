@@ -1,0 +1,27 @@
+.Calculadora{
+    display: block;
+    margin:0 auto ;
+    padding: 20px;
+    background-color: darkgrey;
+    width: 350px;
+    height: 500px;
+    border-radius: 20px;
+}
+.Calculadora td button{
+    display: block;
+    width: 75px;
+    height: 75px;
+    font-size: 25px;
+}
+
+#resultado{
+    display: block;
+    text-align: right;
+    font-size: 35px;
+    margin-bottom: 50px;
+    width: 310px;
+    height: 75px;
+    line-height: 100px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
